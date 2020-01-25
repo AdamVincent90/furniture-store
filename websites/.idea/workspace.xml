@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f2a9871-d573-4788-97d9-567bc525d02c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/categories.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1079">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/Model/Banner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/Model/Category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/addfurniture.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/amendstaff.html.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/staff.html.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/addstaff.html.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/Model/Furniture.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default/app/Classes/DatabaseTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/furniture.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section</find>
+      <find>left</find>
+      <find>td</find>
+      <find>.left</find>
+      <find>th</find>
+      <find>h2</find>
+      <find>h6</find>
+      <find>li</find>
+      <find>details</find>
+      <find>furn</find>
+      <find>cart</find>
+      <find>h3</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/default/app/Classes/Root.php" />
+        <option value="$PROJECT_DIR$/default/app/View/furniture/layout.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/layout.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/dashboard.html.php" />
+        <option value="$PROJECT_DIR$/default/app/Entity/category.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/amendstaff.php" />
+        <option value="$PROJECT_DIR$/../../CSY2028AS2/websites/default/public/admin/addfurniture.php" />
+        <option value="$PROJECT_DIR$/default/app/View/furniture/category.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/furniture/condition.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/furniture/main.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/home/about.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/home/faq.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/footer.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/header.html.php" />
+        <option value="$PROJECT_DIR$/default/app/Classes/View.php" />
+        <option value="$PROJECT_DIR$/default/app/Controller/LogInController.php" />
+        <option value="$PROJECT_DIR$/default/app/Controller/PageController.php" />
+        <option value="$PROJECT_DIR$/default/app/Model/Query.php" />
+        <option value="$PROJECT_DIR$/default/app/Controller/AdminController.php" />
+        <option value="$PROJECT_DIR$/default/app/Classes/LogIn.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/addcategory.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/archive.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/categories.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/staff.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin_layout.html.php" />
+        <option value="$PROJECT_DIR$/default/app/Classes/DatabaseTable.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/amendstaff.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/home.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/addstaff.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/furniturearchive.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/furniture.html.php" />
+        <option value="$PROJECT_DIR$/default/app/Model/Banner.php" />
+        <option value="$PROJECT_DIR$/default/app/Model/Staff.php" />
+        <option value="$PROJECT_DIR$/default/app/Model/Category.php" />
+        <option value="$PROJECT_DIR$/default/app/View/login/dashboard.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/addfurniture.html.php" />
+        <option value="$PROJECT_DIR$/default/public/index.php" />
+        <option value="$PROJECT_DIR$/default/public/styles.css" />
+        <option value="$PROJECT_DIR$/default/app/Classes/Application.php" />
+        <option value="$PROJECT_DIR$/default/app/View/furniture_layout.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/home/home.html.php" />
+        <option value="$PROJECT_DIR$/default/app/Model/Furniture.php" />
+        <option value="$PROJECT_DIR$/default/app/Controller/FurnitureController.php" />
+        <option value="$PROJECT_DIR$/default/app/View/admin/banner.html.php" />
+        <option value="$PROJECT_DIR$/default/app/View/home/contact.html.php" />
+        <option value="$PROJECT_DIR$/default/app/Classes/Connection.php" />
+        <option value="$PROJECT_DIR$/default/app/FransFurniture/View/admin/addfurniture.html.php" />
+        <option value="$PROJECT_DIR$/default/app/FransFurniture/Model/Category.php" />
+        <option value="$PROJECT_DIR$/default/app/FransFurniture/View/admin/categories.html.php" />
+        <option value="$PROJECT_DIR$/default/app/FransFurniture/Model/Banner.php" />
+        <option value="$PROJECT_DIR$/default/app/FransFurniture/View/admin/furniture.html.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="FransFurniture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="FransFurniture" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="FransFurniture" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="FransFurniture" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\juddu\OneDrive - The University of Northampton\Web Programming\websites\default\app\View\login" />
+      <recent name="C:\Users\juddu\OneDrive - The University of Northampton\Web Programming\websites\default\app\View" />
+      <recent name="C:\Users\juddu\OneDrive - The University of Northampton\Web Programming\websites\default\app\Classes" />
+      <recent name="C:\Users\juddu\OneDrive - The University of Northampton\Web Programming\websites\default" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f2a9871-d573-4788-97d9-567bc525d02c" name="Default Changelist" comment="" />
+      <created>1550684554771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550684554771</updated>
+      <workItem from="1550684556163" duration="5081000" />
+      <workItem from="1550689976623" duration="881000" />
+      <workItem from="1550694948831" duration="12885000" />
+      <workItem from="1550747411125" duration="13129000" />
+      <workItem from="1550763763729" duration="15334000" />
+      <workItem from="1550854919614" duration="13690000" />
+      <workItem from="1550943866889" duration="7396000" />
+      <workItem from="1550956194137" duration="8428000" />
+      <workItem from="1550970600447" duration="84000" />
+      <workItem from="1551110790741" duration="8112000" />
+      <workItem from="1551179726368" duration="6756000" />
+      <workItem from="1551195744226" duration="6029000" />
+      <workItem from="1551219775462" duration="8917000" />
+      <workItem from="1551784146156" duration="2311000" />
+      <workItem from="1551786550331" duration="4222000" />
+      <workItem from="1551806109056" duration="13027000" />
+      <workItem from="1552036231488" duration="163000" />
+      <workItem from="1552993606239" duration="6976000" />
+      <workItem from="1553015360989" duration="12087000" />
+      <workItem from="1553194856717" duration="12696000" />
+      <workItem from="1553278686513" duration="14627000" />
+      <workItem from="1553353297502" duration="5885000" />
+      <workItem from="1553612594455" duration="31424000" />
+      <workItem from="1553712407383" duration="6584000" />
+      <workItem from="1553779621914" duration="15040000" />
+      <workItem from="1554130291520" duration="31000" />
+      <workItem from="1554134860046" duration="25000" />
+      <workItem from="1554200077499" duration="1343000" />
+      <workItem from="1554202584897" duration="3386000" />
+      <workItem from="1554317552745" duration="598000" />
+      <workItem from="1554504314105" duration="90000" />
+      <workItem from="1556982698098" duration="3900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241137000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.22654584" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.20268457" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.20268457" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.20268457" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/default/app/View/home/faq.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin/amendstaff.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/login/dashboard.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/Model/Staff.php" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/10.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/11.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/12.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/13.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/26.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/28.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/29.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/27.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/60/0.jpg" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/footer.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/public/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="195" column="39" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin_layout.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin/addfurniture.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/Classes/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/Model/Banner.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin/furniturearchive.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/furniture_layout.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/home/home.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin/archive.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin/furniture.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/furniture/category.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/Model/Furniture.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/Controller/FurnitureController.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/Controller/LogInController.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/admin/banner.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/home/contact.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/furniture/condition.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/View/furniture/main.html.php" />
+    <entry file="file://$PROJECT_DIR$/default/app/Classes/LogIn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/Classes/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/Classes/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/addcategory.html.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/10/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/67/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/public/images/furniture/11/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/Model/Furniture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/Classes/DatabaseTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/addstaff.html.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/staff.html.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/amendstaff.html.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/addfurniture.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/Model/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/categories.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1079">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/Model/Banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/app/FransFurniture/View/admin/furniture.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

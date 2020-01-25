@@ -1,0 +1,196 @@
+/* import fonts */
+@import url('https://stockfont.org/?a78cd5d57e9cd562c7ae8c2b297275f262c217f6410c7491f5ee555692367265');
+* {margin: 0; padding: 0;}
+
+html {font-family: 'Oxygen-Regular', verdana, sans-serif; }
+
+body {background-color: #C6AAA0;}
+header {background-color: #516666
+
+; color: white;
+
+height: 200px;
+
+}
+
+header img {width: 500px; float: left; background-color: white; border-radius: 20px; margin-top: 20px;}
+header aside {float: right; margin-top: 15px;}
+header section {width: 1000px; display: block; margin:auto;}
+header h1 {float: left; margin-left: 20px;}
+nav {width: 100%; background-color: #37AFAF; overflow: auto;}
+body > img {width: 100%; display: block;}
+nav ul {width: 1000px; margin: auto; display: block; list-style-type: none;}
+nav ul li {width: 20%; float: left; overflow: auto; text-align: center;}
+nav a {color: white; padding-top: 10px; display: block;}
+
+
+nav {font-family: 'Oxygen-Regular';}
+header section {  display: block; font-family: 'Mr Dafoe', cursive;}
+
+header h1 {font-weight: normal;}
+
+
+h1 { font-size:4em; color: white; text-align: center; padding-top: 20px; text-shadow: 2px 2px 2px #000;}
+main {min-height: 75vh; background-color: #eee; width: 70vw; display: block; margin: auto; box-shadow: 0px 0px 10px #888; color:#444;}
+footer {min-height: 5vh;}
+
+main h2 {font-size:2em; text-align: center;}
+.home {padding: 5vw; width: 60vw;}
+
+p, li, h2 {margin-bottom: 1em;}
+h6 {margin-bottom: 1em; text-align: center; font-size: 30px;}
+ol {margin-left: 30px;}
+
+pre {margin-top: 20px;}
+code {background-color: #ccc;}
+pre code {display: block;}
+
+footer {background-color: #8ED0CD; padding: 10px; color: black;}
+
+form select, form label, form input, form textarea {float: left; width: 200px; padding: 10px; margin-top: 20px;}
+form label {clear: left;}
+textarea {height: 100px;}
+form input[type="text"], form input[type="password"], textarea {color: #999; font-family: verdana, sans-serif}
+input[type="submit"] {clear: both; margin-left: 220px; width: 220px;}
+
+
+.left ul {list-style-type: none;}
+section a {color: #444;}
+
+form select {width: 220px;}
+table {width: 100%; margin-top: 10px; text-align: center;}
+td {padding: 5px; border-bottom: 1px solid #333; font-size: 14px;}
+
+.jobs {list-style-type: none}
+.jobs strong {width: 150px; float:  left; clear: left;}
+.jobs p {width: 500px; float: left;}
+
+
+
+.jobs li {padding-top: 20px; padding-bottom: 20px; border-bottom: 2px solid #aaa; overflow: auto}
+.jobs a {float: right; clear: both;}
+
+img.shop {width: 800px;}
+
+.stock, .admin {display: table;}
+.stock > ul, .admin .left { width: 10vw; list-style-type: none; display: table-cell; padding: 10px; background-color: #555; margin: 0;}
+
+.stock .products, .admin .right {display: table-cell; padding: 20px;}
+
+.stock > ul a, .admin .left a {color: white; text-decoration: none;}
+
+table td input[type="submit"] {margin: 0; float: right; width: auto; padding: auto;}
+
+.furniture ul {margin-top: 40px; list-style-type: none;}
+.furniture li {border-top: 2px solid black; padding: 20px; overflow: auto;}
+
+.furniture li .noimage, .furniture li img {max-width: 200px; margin-right: 2px; max-height: 200px; float: left;}
+.furniture .info {float: left; width: 75%;}
+
+
+.current {background-color: #ddd; color: #333; display: block; }
+.current a {color: #333 !important;}
+.stock > ul .current a {color: #333;}
+.categories li {margin: 0; padding: 0.5em; font-size: 2em;}
+
+.products > img {max-height: 300px;}
+.cart {border: 2px solid black; margin-bottom: 10%;}
+
+a:hover {color: #ccc !important;}
+
+.image { background-color: #ebeee5; margin: 0 0 0 1px;}
+
+.right {padding: 20px;}
+
+h4, h5 {text-align: center; margin-bottom: 2%;}
+h4 {font-style: italic; font-size: 3vh;}
+h3 {margin: 0 0 10px 10px!important;}
+
+main h1 {color: #666;}
+
+main img {display: block;}
+
+.active {background-color: #8ED0CD;}
+
+.small-font{font-size: 70%;}
+
+.footer_link{text-align: right; font-size: 10px; list-style: none;}
+
+.styled-select.slate {margin: 10% 10% 10% 5%;height: 45px; width: 340px;}
+
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0 0 10%;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0 0 10%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0 0 10%;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+
+label { margin: 8px 0 0 10%; font-weight: bold;}
+
+textarea {
+    margin-left: 10%;
+}
+
+.customer {float: right; background-color: #45a049; border-color: #8ED0CD; border-radius: 30%;}
+
+.staffInput {margin-top: 0}
+
+.queryTable {margin: 5% 5% 5% 0;}
+
+th {background-color: #8ED0CD;}
+
+button {font-size: 15px; width: 100%; background-color: #4CAF50; border-radius: 10%; border-color: #4CAF50;}
+
+.column {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.row {
+    flex: 20%;
+    padding: 0 4px;
+
+}
+
+.row img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+button:hover {background-color: #45a049!important;}
